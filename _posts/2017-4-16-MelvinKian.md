@@ -1,22 +1,10 @@
 ---
 layout: post
 title: Melvin Kianmanesh-Rad
-description: Lorem etiam nullam
+description: Apr$egrave;s son passage &agrave; la FINMA, le r$eacute;gulateur financier Suisse l’a recommand&eacute; pour avoir apporte une importante contribution au Swiss Solvency Test, mod$eacute;le standard de gestion du risque appliqu&eacute; par les assurances vie. Il est actuellement en visite scientifique à Microsoft Research, Redmond, Washington, ou il travaille sur des sujets liés aux algorithmes d’optimisation.
+Secteurs: assurance vie, finance, digital marketing.
+Comp&eacute;tences: math&eacute;matiques financi&egrave;res, gestion du risque, &eacute;chantillonnage, Monte-Carlo et cha&icirc;nes de Markov.
+Programmation: R, C++, Matlab, Scala, Apache Spark.
 image: assets/images/pic03.jpg
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. 
-Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. 
-Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. 
-Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. 
-Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. 
-Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. 
-Pellentesque aliquam maximus risus, vel sed vehicula.
-
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 
-Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. 
-Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.

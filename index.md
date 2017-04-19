@@ -1,10 +1,12 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Statson Consulting'
 description: null
 image: null
 author: null
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Notre equipe est composee de six mathematiciens fraichement diplomes de l EPFL et specialises en probabilites et statistique. 
+Nous travaillons ensemble depuis maintenant trois ans et avons obtenus de bons classements a des concours de data mining et de machine learning internationaux. 
+Nos competences techniques, en informatiques ainsi que nos secteurs d expertise sont varies et complementaires.

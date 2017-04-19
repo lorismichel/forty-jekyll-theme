@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Benedikt Ramsauer
-description: Feugiat amet tempus
+description: spectral analysis and politcs
 image: assets/images/Ben.jpeg
 ---
 

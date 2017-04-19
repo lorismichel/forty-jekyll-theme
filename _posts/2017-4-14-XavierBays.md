@@ -5,6 +5,6 @@ description: Il a d&eacute;veloppe une nouvelle strat&eacute;gie pour g&eacute;r
 Secteurs: management, ressources humaines
 Comp&eacute;tences: statistiques g&eacute;nomiques et en hautes dimensions, statistiques robustes, optimisation combinatoire.
 Programmation: R, Matlab, C++, Sympy, VBA.
-image: assets/images/pic05.jpg
+image: assets/images/Xavier.jpeg
 ---
 

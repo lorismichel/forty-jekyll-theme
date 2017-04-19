@@ -5,7 +5,7 @@ description: H2o man
 -Secteurs: automobile, e-commerce
 -Comp&eacute;tences: gradient boosting, r&eacute;seaux de neurones artificiels, optimisation convexe.
 -Programmation: R, C++, Matlab.
-image: assets/images/pic06.jpg
+image: assets/images/Brice.jpeg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

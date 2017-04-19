@@ -10,9 +10,8 @@ url: "" # the base hostname & protocol for your site
 author:
 street_address: 
 city: Lausanne
-state: 
-zip_code: 
-country: 
+state: Vaud
+country: Swizerland
 phone: 
 
 # Homepage tiles

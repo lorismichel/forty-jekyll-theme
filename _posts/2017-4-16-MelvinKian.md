@@ -5,6 +5,6 @@ description: Apr&egrave;s son passage &agrave; la FINMA, le r$eacute;gulateur fi
 Secteurs: assurance vie, finance, digital marketing.
 Comp&eacute;tences: math&eacute;matiques financi&egrave;res, gestion du risque, &eacute;chantillonnage, Monte-Carlo et cha&icirc;nes de Markov.
 Programmation: R, C++, Matlab, Scala, Apache Spark.
-image: assets/images/pic03.jpg
+image: assets/images/Melvin.jpeg
 ---
 

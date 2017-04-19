@@ -2,7 +2,7 @@
 layout: post
 title: Benedikt Ramsauer
 description: Feugiat amet tempus
-image: assets/images/pic02.jpg
+image: assets/images/Ben.jpeg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

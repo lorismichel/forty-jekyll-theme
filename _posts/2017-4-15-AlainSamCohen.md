@@ -6,7 +6,7 @@ description: Percolation and Probability
 -Techniques: r&eacute;duction de variance, s&eacute;
  ries temporelles, ensemble learning, analyse s&eacute;
  mantique.
-image: assets/images/pic04.jpg
+image: assets/images/Alain.jpeg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

@@ -1,7 +1,9 @@
 ---
 layout: post
 title: Brice Repond
-description: Feugiat amet tempus
+description: Secteurs: automobile, e-commerce
+Comp&eacute;tences: gradient boosting, r&eacute;seaux de neurones artificiels, optimisation convexe.
+Programmation: R, C++, Matlab.
 image: assets/images/pic06.jpg
 ---
 

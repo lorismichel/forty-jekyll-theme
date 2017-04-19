@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Alain-Sam Cohen
-description: -Secteurs: e-commerce, march&eacute; des mati&egrave;res premi&eacute;res 
+description: Percolation and Probability 
+-Secteurs: e-commerce, march&eacute; des mati&egrave;res premi&eacute;res 
 -Techniques: r&eacute;duction de variance, s&eacute;
  ries temporelles, ensemble learning, analyse s&eacute;
  mantique.

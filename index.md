@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'STATSON  Consulting'
+landing-title: 'Our team'
 description: null
 image: null
 author: null

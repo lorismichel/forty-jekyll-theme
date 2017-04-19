@@ -2,7 +2,7 @@
 layout: post
 title: Loris Michel
 description: Il a travaill&eacute; dans l’unit&eacute; de développement clinique au centre de recherche de Nestl&eacute; bas&eacute; &agrave;  Lausanne (Suisse. Il travaille actuellement en collaboration avec le CHUV (centre hospitalier universitaire de Lausanne) sur un &eacute;tude cohorte d’association g&eacute;n&eacute;tiques avec diff&eacute;rents niveaux de donn&eacute;es cliniques.
-image: assets/images/Loris.jpeg
+image: assets/images/Loris.jpg
 ---
 
 Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. 

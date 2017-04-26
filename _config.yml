@@ -2,9 +2,7 @@
 title: Notre &eacute;quipe
 subtitle: solutions analytiques et innovantes
 email: loris.michel@gmail.com
-description: Formee a l'EPFL, l'institut technologique preponderant en Europe, 
-notre equipe s'est construite autours d'un vaste pannel de projets, allant de la 
-recherche medicale au marketing digital.
+description: Formee a l'EPFL, l'institut technologique preponderant en Europe, notre equipe s'est construite autours d'un vaste pannel de projets, allant de la recherche medicale au marketing digital.
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
